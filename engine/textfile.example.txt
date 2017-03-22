@@ -1,0 +1,12 @@
+<item>
+	url = textfile
+	post = idem
+</item>
+<item>
+	url = textfile2
+	post = idem
+</item>
+<item>
+	url = textfile3
+	post = idem
+</item>
