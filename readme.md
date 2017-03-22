@@ -137,27 +137,12 @@ Google Sitemaps?
 
 Background (updated 2017)
 -------------------------
-As said, I wrote this code for my Master's thesis way back in 2003.  
-After I finished my thesis and got a job, I went for dinner with 
-some study friends and some guys from Google who were visiting 
-Europe on a study trip. I told the Google guys about this project 
-and what I tried to achieve. They were very interested, but I never
-heard from them again.
+As said, I wrote this code for my Master's thesis way back in 2003. After I finished my thesis and got a job, I went for dinner with some study friends and some guys from Google who were visiting Europe on a study trip. I told the Google guys ALL ABOUT this project (stupid me) and what I tried to achieve. They were very interested, but I never heard from them again.
 
-However, half a year later I heard about a new Google initiative called
-"Google Sitemaps". It basically did everything I had told these guys,
-and a very basic first version of their code, only a few hundred lines 
-long, was released 6 (!!) days after my conversation with them. 
+However, half a year later I heard about a new Google initiative called "Google Sitemaps". It basically did everything I had told these guys, and a very basic first version of their code, only a few hundred lines long, was released 6 (!!) days after my conversation with them. 
  
-Uncharacteristically, they released their source on Sourceforge, which
-was very odd even back then. The whole thing was very suspicious to me,
-and it still is now (14 years later).
+Uncharacteristically, they released their source on Sourceforge, which was very odd even back then. The whole thing was very suspicious to me, and it still is now (14 years later).
 
-Based on this I suspect that my Master's thesis, and the code in this 
-repository, was the initial inspiration for what is now known as Google 
-Sitemaps.
+Based on this I suspect that my Master's thesis, and the code in this repository, was the initial inspiration for what is now known as Google Sitemaps.
   
-How do I feel about that? Hmm. Good question! Slightly bitter, I guess. 
-Mostly because I went uncredited and because I didn't get a fancy job
-at Google in return. But I can't prove that this is how it went down,
-so there's that. So, if any Googler is reading this: hit me up ;-)
+How do I feel about that? Hmm. Good question! Slightly bitter, I guess. Mostly because I went uncredited and because I didn't get a fancy job at Google in return. But I can't prove that this is how it went down, so there's that. So, if any Googler is reading this: hit me up ;-)
